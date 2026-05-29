@@ -162,6 +162,6 @@ export const projectInfo = {
   school: 'ISGA Fès',
   module: 'Entrepreneuriat',
   professor: 'Monsieur Alaoui',
-  github: 'https://github.com/salahchouiref/saas_erp_app_prowered_by_ai',
+  github: 'https://github.com/salahchouiref/saas_erp_fullapp',
   description: 'Plateforme SaaS intelligente de gestion d\'entreprise intégrant l\'intelligence artificielle pour l\'audit, les RH, la gestion des stocks, les commandes, la paie et l\'assistant virtuel.',
 };
